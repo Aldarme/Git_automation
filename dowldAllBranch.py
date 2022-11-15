@@ -14,8 +14,8 @@ import shutil
 DEBUG_DISP = False
 
 
-workingPath = "/media/Stock/Projets/Suratram/Cours_UV/INFO/AP4A_LO43/TP_Perso_C++/correction/AP4A/"
-branchFolders = "/home/promet/Documents/AP4A/branchFolders/"
+workingPath = "PATH/REPO/"
+branchFolders = "PATH/BRANCHFOLDERS/"
 
 
 myRepo = git.Repo(workingPath)
